@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://wisecode.my.id" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="Wise Logo">
@@ -142,3 +143,6 @@ Proyek ini pakai template admin [Sneat](https://github.com/themeselection/sneat-
 
 ## 📜 Lisensi
 Berlisensi di bawah [MIT License](LICENSE).
+=======
+# management-surat
+>>>>>>> 44faf5703eb94869df0cd13e9d82e378f7dbca45
