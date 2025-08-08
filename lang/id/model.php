@@ -17,7 +17,7 @@ return [
             'disposed' => 'Ada Disposisi',
             'not_disposed' => 'Belum Disposisi',
         ],
-        'classification_code' => 'Kode Klasifikasi',
+        'classification_code' => 'TUJUAN DISPOSISI',
     ],
     'disposition' => [
         'to' => 'Penerima',
@@ -29,7 +29,7 @@ return [
     ],
     'classification' => [
         'code' => 'Kode',
-        'type' => 'Klasifikasi',
+        'type' => 'Bersifat',
         'description' => 'Uraian',
     ],
     'status' => [

@@ -4,7 +4,7 @@ return [
     'home' => 'Beranda',
     'users' => 'Kelola Pengguna',
     'transaction' => [
-        'menu' => 'Transaksi Surat',
+        'menu' => 'Pencatatan Surat',
         'incoming_letter' => 'Surat Masuk',
         'outgoing_letter' => 'Surat Keluar',
         'disposition_letter' => 'Surat Disposisi',
@@ -19,7 +19,7 @@ return [
         'end_date' => 'Sampai Tanggal',
     ],
     'gallery' => [
-        'menu' => 'Galeri Surat',
+        'menu' => 'Daftar Surat',
         'incoming_letter' => 'Surat Masuk',
         'outgoing_letter' => 'Surat Keluar',
         'disposition_letter' => 'Surat Disposisi',

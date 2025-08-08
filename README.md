@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://404notfound.fun" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="404NFID Logo">
+  <a href="https://wisecode.my.id" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="Wise Logo">
   </a>
 </p>
 
@@ -135,7 +135,7 @@ Ubah `timezone` di `config/app.php` sesuai kebutuhan. Lihat daftar zona waktu di
 ![Screenshot](docs/laravel-surat-menyurat-v1.png)
 
 ## 🎥 Demo
-Tonton demo proyek ini di [YouTube](https://www.youtube.com/watch?v=dyatVEGavxo).
+Tonton demo proyek ini di [Belum Ada](https://wisecode.my.id)
 
 ## 🎨 Template
 Proyek ini pakai template admin [Sneat](https://github.com/themeselection/sneat-html-admin-template-free).
